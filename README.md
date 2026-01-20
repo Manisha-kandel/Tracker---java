@@ -68,7 +68,7 @@ java -cp "bin;lib\gson-2.13.2.jar" app.Main <command> [args...]
 
 ---
 
-## Sample Usage (Realistic Study Tasks)
+## Sample Usage
 
 ### Add tasks
 
