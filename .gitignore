@@ -1,0 +1,4 @@
+bin/
+data/tasks.json
+.vscode/
+*.class
